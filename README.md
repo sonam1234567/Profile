@@ -1,2 +1,2 @@
 # Profile
-It consists of the resume and CV.
+A Static Website which consists of the resume and CV.
