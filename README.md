@@ -1,3 +1,3 @@
 # Profile
 
-A Static Website which consists of the resume and CV.
+A Static Website which consists of my resume and CV.
