@@ -1,0 +1,25 @@
+body{
+background-color: coral;
+}
+
+button{
+    background-color: coral;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+#butone{
+    padding-left: 950px;
+}
+
+#main_body
+{
+    padding-top: 30px;
+    padding-right: 240px;
+    padding-bottom: 0px;
+    padding-left: 240px;
+}
+
